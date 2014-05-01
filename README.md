@@ -4,6 +4,8 @@ Welcome to the lab-resources wiki!
 
 * [numerical code](https://github.com/BaskettLab/computing/blob/master/numerical.md)
 * [plotting](https://github.com/BaskettLab/computing/blob/master/plotting.md)
+* [farm cluster](https://github.com/BaskettLab/farm-guide/blob/master/Beginners_guide_to_farm.md)
+* [slurm on farm2](https://github.com/BaskettLab/farm-guide/blob/master/slurm-update.md)
 
 # Other resources
 
